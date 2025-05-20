@@ -1,0 +1,2 @@
+Prefix plugins/Matthews/example/
+Plugin Matthews inputfile parameters.txt outputfile matthews_masif_test.csv
